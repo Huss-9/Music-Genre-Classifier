@@ -1,0 +1,19 @@
+Name				Work Done
+---------------------------------------------------------------
+Théo Fuhrmann Collomb		Introduction
+				Preprocessing
+
+Armando Rodriguez Ramos		KNN
+				Support Vector Machines
+
+Javier Rivera Hernández		Naive Bayes
+				Decision Trees
+
+Xavier Gordillo Ramos		Decision Trees interpretability
+				Final conclusions
+
+Felipe Castro Ortega		Ensembles: Voting
+				Ensembles: Boosting
+
+Hasnain Shafqat			Ensembles: Bagging
+				Ensembles: Random Forest

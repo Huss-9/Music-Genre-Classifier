@@ -1,0 +1,21 @@
+Music genre classification MD
+
+Group components:
+
+Felipe Castro 
+- felipe.castro@estudiantat.upc.edu
+
+Théo Fuhrmann 
+- theo.fuhrmann@estudiantat.upc.edu
+
+Xavier Gordillo 
+- xavier.gordillo@estudiantat.upc.edu
+
+Javier Rivera 
+- javier.rivera.hernandez@estudiantat.upc.edu
+
+Armando Rodríguez 
+- armando.rodriguez@estudiantat.upc.edu
+
+Hasnain Shafqat 
+- hussnain.shafqat@estudiantat.upc.edu
